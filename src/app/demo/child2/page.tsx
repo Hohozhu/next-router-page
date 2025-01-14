@@ -1,4 +1,4 @@
-import A from "./a";
+import A from "./component";
 
 export function Child2() {
   return (
